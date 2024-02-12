@@ -1,9 +1,8 @@
 # Samuel S. James
 
 **`I.T. Professional (Network Engineer/Linux Administrator/Cloud Practitioner)`**
-Samuel James is a highly skilled infrastructure management professional with expertise in both networking and systems implementations. He possesses a deep understanding of Cisco IOS, Linux server management, and various automation tools like Ansible, Docker, and Podman. Samuel is adept at handling hardware across all platforms, from server hosting to public and private cloud environments.
+Skilled infrastructure management professional with expertise in both networking and systems implementations. I possesses a deep understanding of Cisco IOS, Linux server management, and various automation tools like Ansible, Docker, and Podman. Handling hardware across all platforms, from server hosting to public and private cloud environments I love all things I.T.
 
-Furthermore, Samuel leverages his programming skills in Python, Bash, YAML, JSON, and Markdown to streamline tasks and scripting. He maintains proficiency in CI/CD workflows using Jenkins, GitHub, and GitLab, and ensures effective monitoring and alerting through diverse tools like New Relic, Zabbix, and Cacti. Additionally, Samuel's networking knowledge encompasses crucial protocols like OSPF, EIGRP, BGP, and RIP, making him a valuable asset for any team aiming to optimize their infrastructure.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
