@@ -1,5 +1,4 @@
 # Samuel S. James
-
 **`I.T. Professional (Network Engineer/Linux Administrator/Cloud Practitioner)`**
 
 Skilled infrastructure management professional with expertise in both networking and systems implementations. I possess a deep understanding of Cisco IOS, Linux server management, and various automation tools like Ansible, Docker, and Podman. Handling hardware across all platforms, from server hosting to public and private cloud environments. I love all things I.T.
@@ -31,3 +30,8 @@ Skilled infrastructure management professional with expertise in both networking
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
 
 <hr>
+
+#
+
+### Projects and Media
+
