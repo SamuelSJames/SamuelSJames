@@ -19,12 +19,12 @@ Skilled infrastructure management professional with expertise in both networking
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="Cisco" width="30px" style="margin-right: 10px;" src="assets/cisco.png" />
+  <img alt="Cisco" width="30px" style="margin-right: 5px;" src="assets/cisco.png" />
   <a href="assets/cisco_cert.png">Cisco Certified Specialist | Cisco Networking Academy (November 2022)</a>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="Cisco" width="30px" style="margin-right: 10px;" src="assets/cisco.png" />
+  <img alt="Cisco" width="30px" style="margin-right: 5px;" src="assets/cisco.png" />
   <a href="assets/cisco_cert.png">Cisco Certified Entry Network Tech | Udemy (September 2019)</a>
 </div>
 
