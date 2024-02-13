@@ -8,10 +8,25 @@ Skilled infrastructure management professional with expertise in both networking
 
 ## Education & Certifications
 
-- Linux Systems Engineering | Careerist (_June 2023_)
-- AWS Certified Practitioner | Udemy (December 2023_)
-- Cisco Certified Specialist | Cisco Networking Academy (_November 2022_)
-- Cisco Certified Entry Network Tech | Udemy (September 2019)
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <a href="assets/linux_cert.png"> Linux Systems Engineering | Careerist (June 2023)</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  AWS Certified Practitioner | Udemy (December 2023)
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src="assets/cisco.png" />
+  Cisco Certified Specialist | Cisco Networking Academy (November 2022)
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src="assets/cisco.png" />
+  Cisco Certified Entry Network Tech | Udemy (September 2019)
+</div>
 
 <hr>
 
@@ -27,8 +42,8 @@ Skilled infrastructure management professional with expertise in both networking
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="DigitalOcean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
-<img align="left" alt="AWS" width="40px" style="padding-right:20px;" src="assets/ciscoios.jpg" />
+<img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+<img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src="assets/cisco_icon.png" />
 
 <br />
 
