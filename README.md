@@ -7,7 +7,6 @@ Skilled infrastructure management professional with expertise in both networking
 ---
 
 ## Education & Certifications
-
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Linux" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <a href="assets/linux_cert.png"> Linux Systems Engineering | Careerist (June 2023)</a>
