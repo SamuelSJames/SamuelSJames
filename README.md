@@ -15,17 +15,17 @@ Skilled infrastructure management professional with expertise in both networking
 
 <div style="display: flex; align-items: center;">
   <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  AWS Certified Practitioner | Udemy (December 2023)
+  <a href="assets/aws_cert.png">AWS Certified Practitioner | Udemy (December 2023)</a>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src="assets/cisco.png" />
-  Cisco Certified Specialist | Cisco Networking Academy (November 2022)
+  <a href="assets/cisco_cert.png">Cisco Certified Specialist | Cisco Networking Academy (November 2022)</a>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src="assets/cisco.png" />
-  Cisco Certified Entry Network Tech | Udemy (September 2019)
+  <a href="assets/cisco_cert.png">Cisco Certified Entry Network Tech | Udemy (September 2019)</a>
 </div>
 
 <hr>
