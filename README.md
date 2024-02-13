@@ -7,20 +7,16 @@ Skilled infrastructure management professional with expertise in both networking
 ---
 
 ## Education & Certifications
+
 <div style="display: flex; align-items: center;">
-  <div style="flex-grow: 1;">
-    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  </div>
-  <a href="assets/linux_cert.png">Linux Systems Engineering | Careerist (June 2023)</a>
+  <img alt="Linux" width="30px" style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <a href="assets/linux_cert.png" style="margin-left: 5px;">Linux Systems Engineering | Careerist (June 2023)</a>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex-grow: 1;">
-    <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  </div>
-  <a href="assets/aws_cert.png">AWS Certified Practitioner | Udemy (December 2023)</a>
+  <img alt="AWS" width="30px" style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <a href="assets/aws_cert.png" style="margin-left: 5px;">AWS Certified Practitioner | Udemy (December 2023)</a>
 </div>
-
 
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Cisco" width="30px" style="margin-right: 10px;" src="assets/cisco.png" />
