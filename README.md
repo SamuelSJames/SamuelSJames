@@ -32,4 +32,6 @@ Skilled infrastructure management professional with expertise in both networking
 
 <br />
 
+<hr>
+
 ### Projects and Media
