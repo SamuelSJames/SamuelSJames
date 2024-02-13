@@ -5,7 +5,13 @@
 Skilled infrastructure management professional with expertise in both networking and systems implementations. I possess a deep understanding of Cisco IOS, Linux server management, and various automation tools like Ansible, Docker, and Podman. Handling hardware across all platforms, from server hosting to public and private cloud environments. I love all things I.T.
 
 ---
+## Education & Certifications
 
+ - Linux Systems Engineering | Careerist (_June 2023_)
+ - AWS Certified Practitioner | Udemy (December 2023_)
+ - Cisco Certified Specialist | Cisco Networking Academy (_November 2022_)
+ - Cisco Certified Entry Network Tech | Udemy (September 2019)
+---
 ### 🧰 **Languages and Tools**
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -19,9 +25,5 @@ Skilled infrastructure management professional with expertise in both networking
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="DigitalOcean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
 <img align="left" alt="Cisco" width="100px" style="padding-right:10px;" src="cisco.svg" /> 
-
-### Education & Certifications
-
- - Linux Systems Engineering | Careerist Miami, FL (_June 2023_)                 
- - AWS Certified Practitioner | Udemy (_November 2023_)               
- - Cisco Certified Specialist | Cisco Networking Academy (_November 2022_)
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+<hr>
