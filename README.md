@@ -45,3 +45,5 @@ Skilled infrastructure management professional with expertise in both networking
 <hr>
 
 ### Projects and Media
+
+## Omalies Coffee Shop
