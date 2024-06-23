@@ -10,8 +10,8 @@ Skilled infrastructure management professional with experience in both networkin
 ## Education & Certifications
 
 <div style="display: flex; align-items: center;">
-  <img alt="Linux" width="30px" style="margin-right: 10px;" src="/assets/udemy.png" />
-  <a href="assets/udemy_linuxplus" style="margin-left: 10px;"> Udemy | CompTia Linux+ (June 2024)</a>
+  <img alt="Linux" width="40px" style="margin-right: 20px;" src="/assets/udemy.png" />
+  <a href="assets/udemy_linuxplus.png" style="margin-left: 10px;"> Udemy | CompTia Linux+ (June 2024)</a>
 </div>
 
 <div style="display: flex; align-items: center;">
