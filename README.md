@@ -47,5 +47,6 @@ Skilled infrastructure management professional with experience in both networkin
 
 ## Projects and Media
 
-### TCRShop
+### [TCRShop](https://github.com/SamuelSJames/tcrshop)
+
 ### Omallies Coffee Shop
