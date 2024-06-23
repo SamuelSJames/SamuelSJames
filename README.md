@@ -10,6 +10,11 @@ Skilled infrastructure management professional with experience in both networkin
 ## Education & Certifications
 
 <div style="display: flex; align-items: center;">
+  <img alt="Linux" width="30px" style="margin-right: 10px;" src="/assets/udemy.png" />
+  <a href="assets/udemy_linuxplus" style="margin-left: 10px;"> Udemy | CompTia Linux+ (June 2024)</a>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img alt="Linux" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <a href="assets/linux_cert.png" style="margin-left: 10px;"> Linux Systems Engineering | Careerist (June 2023)</a>
 </div>
