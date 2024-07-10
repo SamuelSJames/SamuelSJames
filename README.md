@@ -4,6 +4,7 @@ Network Integration Specialist
 **`**{ASPIRING}**I.T. Professional (Network Engineer/Linux Administrator/Cloud Practitioner)`**
 
 Skilled infrastructure management professional with experience in both networking and systems implementations. I possess a deep understanding of Cisco IOS, Linux server management, and various automation tools like Ansible, Docker, and Podman. Handling hardware across all platforms, from server hosting to public and private cloud environments. I'm currently a network integration specialist. I love all things I.T.
+View my [RESUME](/assets/resume.md)
 
 ---
 
