@@ -54,5 +54,6 @@ View my **[RESUME](/assets/resume.md)**
 ## Projects and Media
 
 ### [TCRShop](https://github.com/SamuelSJames/tcrshop)
+![Network](https://github.com/SamuelSJames/tcrshop/blob/main/assets/tcrs_project-overview.png)
 
 ### Omallies Coffee Shop
