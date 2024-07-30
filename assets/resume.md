@@ -95,5 +95,5 @@
 - Cisco Certified Network Professional (pending)
 - Comptia Linux+ (pending)
 
-<img align="left" alt="aws" width="40px" style="padding-right:10px;" src="aws_bage.png" />
+<img align="left" alt="aws" width="50px" style="padding-right:10px;" src="aws_bage.png" />
 <img align="left" alt="ccs" width="50px" style="padding-right:20px;" src="ccs-bage.png" />
