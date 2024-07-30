@@ -89,6 +89,9 @@
 **ITT Technical Institute** - Knoxville, TN  
 *Associate of Applied Science in Computer and Electronics Engineering Technology*
 
+**Careerist** - Miami, FL
+*Linux Systems Engineer*
+
 ## **Certifications**
 - AWS Certified Cloud Practitioner (WBGLXTBLQTE4183M) 
 - Cisco Certified Network Technician (CSCO13376891)
