@@ -94,7 +94,7 @@
 
 ## **Certifications**
 - AWS Certified Cloud Practitioner (WBGLXTBLQTE4183M) 
-- Cisco Certified Network Technician (CSCO13376891)
+- Cisco Certified Network Specialist (CSCO13376891)
 - Cisco Certified Network Professional (pending)
 - Comptia Linux+ (pending)
 
