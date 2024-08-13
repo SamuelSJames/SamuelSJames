@@ -8,6 +8,14 @@
 - Experienced in installing telecommunications equipment, routers, switches, cable trays, and alarm and fire systems
 - Competent in installing and configuring servers, Cisco routers, and switches
 - Knowledgeable in basic configurations of common Layer 2 and Layer 3 protocols (VTP, STP, OSPF, EIGRP, etc.)
+- Successfully led team projects ahead of schedule in a high-pace rollout environment.
+- Preformed switch/router/server/AP/VoIP refreshes for Wal-Mart/Sam’s Club. Racking and stacking
+  network equipment, including routers, switches, and servers, following best practices to guarantee
+  proper airflow, cable management, power redundancy, and hardware security.
+- Installed / terminated / tested OM3 MMF and 10gig fiber transceivers, certified with Fluke Versiv.
+- Served as a QC supervising multiple teams for fiber installs, gave hands-on classroom training for
+  other technicians on anerobic, unicam, and fusion splicing terminations.
+- Completed many other smaller projects where basic adds or changes were needed.
 
 ## **EXPERIENCE**
 
