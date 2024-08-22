@@ -1,6 +1,11 @@
 # **SAMUEL JAMES**
 
 ## **SKILL SUMMARY**
+- Diagnosed and resolved complex Linux issues, optimizing system performance and resolving outages.
+- Implemented CI/CD pipelines using Jenkins, Git, and GitLab for automated deployment.
+- Managed physical and virtual server infrastructure, including patching, upgrades, and installations.
+- Executed operations on GCP and AWS, managing server provisioning, networking, and security.
+- Configured monitoring solutions like NewRelic, Zabbix, Cacti, CheckMK, and NetData for proactive issue resolution.
 - Extensive experience in Structured Cabling, Security, and Networking
 - Skilled in planning network installations by studying customer orders, plans, manuals, and technical specifications
 - Proficient in ordering and gathering equipment, supplies, materials, and tools, and assessing installation sites
